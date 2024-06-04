@@ -1,30 +1,34 @@
-<div align="center">
-  <h1> Hi there, I'm Romain 👋 </h1>
-</div>
+## Hi there, I'm Romain 👋
 
-<div>
-  <p>Welcome to my GitHub profile! I'm a passionate little guy with a love for creating little games and discover all aspects of graphic programming!<br>
-  Here's a bit more about me:</p>
-</div>
+Welcome to my GitHub profile! I'm a passionate little guy with a love for creating little games and discover all aspects of graphic programming!
+Here's a bit more about me:
 
-<div>
-  <h2> My languages </h2>
-  <img alt="C" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" width=32 >
-  <img alt="Cpp" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" width=32>
-  <img alt="C#" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1200px-Logo_C_sharp.svg.png" width=32>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" width=32>
-  <img alt="Bash" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/2048px-Bash_Logo_Colored.svg.png" width=32>
-</div>
+### My Languages
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
+
 
 ### 📖 Libraries and APIs
-<div>
-  <p>OpenGL, SDL2, SFML, MonoGame</p>
-</div>
+![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)
+![Vulkan](https://img.shields.io/badge/Vulkan-%23AC162C?style=for-the-badge&logo=vulkan)
+![SFML](https://img.shields.io/badge/SFML-black?style=for-the-badge&logo=sfml)
+![SDL2](https://img.shields.io/badge/SDL2-blue?style=for-the-badge)
+![MonoGame](https://img.shields.io/badge/MonoGame-black?style=for-the-badge&logo=monogame)
+
 
 ### 🔧 Tools
-<div>
-  <p>Unity, Godot, Visual Studio, CMake</p>
-</div>
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ### 📫 How to Reach Me
 - **Email:** [plumaugat.romain78@gmail.com](mailto:plumaugat.romain78@gmail.com)
