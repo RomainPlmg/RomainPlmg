@@ -23,14 +23,14 @@
 
 ### 🔧 Tools
 <div>
-  <p>Unity, Godot, Visual Studio</p>
+  <p>Unity, Godot, Visual Studio, CMake</p>
 </div>
 
 ### 📫 How to Reach Me
 - **Email:** [plumaugat.romain78@gmail.com](mailto:plumaugat.romain78@gmail.com)
 
 ### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=RomainPlmg&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RomainPlmg&layout=compact&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=RomainPlmg&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RomainPlmg&layout=compact&theme=dark)
 
 Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
