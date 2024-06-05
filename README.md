@@ -16,7 +16,6 @@ Here's a bit more about me:
 
 ### 📖 Libraries and APIs
 ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)
-![Vulkan](https://img.shields.io/badge/Vulkan-%23AC162C?style=for-the-badge&logo=vulkan)
 ![SFML](https://img.shields.io/badge/SFML-black?style=for-the-badge&logo=sfml)
 ![SDL2](https://img.shields.io/badge/SDL2-blue?style=for-the-badge)
 ![MonoGame](https://img.shields.io/badge/MonoGame-black?style=for-the-badge&logo=monogame)
