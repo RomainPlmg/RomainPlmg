@@ -30,8 +30,8 @@ Here's a bit more about me:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ### 📫 How to Reach Me
-- **Email:** [plumaugat.romain78@gmail.com](mailto:plumaugat.romain78@gmail.com)
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/romain-plumaugat-a131a21a2) 
+- [![Gmail](https://img.shields.io/badge/Gmail-%23FFFFFF?logo=gmail)](mailto:plumaugat.romain78@gmail.com)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/romain-plumaugat-a131a21a2/)
 
 ### 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=RomainPlmg&show_icons=true&theme=dark)
