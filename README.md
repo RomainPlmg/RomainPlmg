@@ -1,6 +1,6 @@
 ## Hi there, I'm Romain 👋
 
-Welcome to my GitHub profile! I'm a passionate little guy with a love for creating little games and discover all aspects of graphic programming!
+Welcome to my GitHub profile! I'm a passionate little guy with a love for creating games and discover all aspects of low level graphic programming!
 Here's a bit more about me:
 
 ### My Languages
@@ -31,6 +31,7 @@ Here's a bit more about me:
 
 ### 📫 How to Reach Me
 - **Email:** [plumaugat.romain78@gmail.com](mailto:plumaugat.romain78@gmail.com)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/romain-plumaugat-a131a21a2) 
 
 ### 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=RomainPlmg&show_icons=true&theme=dark)
