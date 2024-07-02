@@ -1,7 +1,7 @@
 ## Hi there, I'm Romain 👋
 
-Welcome to my GitHub profile! I'm a passionate little guy with a love for creating games and discover all aspects of low level graphic programming!
-Here's a bit more about me:
+"Welcome to my GitHub profile! I am a passionate little guy with a love for creating games and exploring all aspects of low-level graphics programming. I am also a dedicated and passionate microelectronics engineer.
+Here's a bit more about me:"
 
 ### My Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
