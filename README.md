@@ -33,8 +33,4 @@ Here's a bit more about me:"
 ### 📫 How to Reach Me
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/romain-plumaugat-a131a21a2/)
 
-### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=RomainPlmg&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RomainPlmg&layout=compact&theme=dark)
-
 Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
