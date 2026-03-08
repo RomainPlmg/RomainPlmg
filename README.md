@@ -6,19 +6,13 @@ Here's a bit more about me:"
 ### My Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
 
 ### 📖 Libraries and APIs
 ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)
-![SFML](https://img.shields.io/badge/SFML-black?style=for-the-badge&logo=sfml)
-![SDL2](https://img.shields.io/badge/SDL2-blue?style=for-the-badge)
-![MonoGame](https://img.shields.io/badge/MonoGame-black?style=for-the-badge&logo=monogame)
+![Vulkan](https://img.shields.io/badge/Vulkan-AC1716?style=for-the-badge&logo=vulkan&logoColor=white)
+![WebGPU](https://img.shields.io/badge/WebGPU-9966FF?style=for-the-badge&logo=webgpu&logoColor=white)
 
 
 ### 🔧 Tools
